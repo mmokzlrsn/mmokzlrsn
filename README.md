@@ -5,4 +5,4 @@
 - Languages: Turksih, English, Japanese
 - 📧 Contact Me:
 - [![Instagram](https://raw.githubusercontent.com/mmokzlrsn/Images/main/insta.png?token=ASEMKFKQBKDVP6WNL5HN4ILBKFI6O)](https://www.instagram.com/mmokzlrsn/)
-- mehmetali@gmail.com
+- mehmetalikizilarslan@gmail.com
