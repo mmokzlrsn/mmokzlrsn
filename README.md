@@ -4,5 +4,5 @@
 - 🎮 You can play my games in here: https://mmokzlrsn.itch.io/ 
 - Languages: Turksih, English, Japanese
 - 📧 Contact Me:
-- [![Instagram]](https://www.instagram.com/mmokzlrsn/)
+- [![Instagram]()](https://www.instagram.com/mmokzlrsn/)
 - mehmetalikizilarslan@gmail.com
