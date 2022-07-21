@@ -6,4 +6,5 @@ Profile of Mehmet Ali KIZILARSLAN
 - 💻 Currently learning C#, Unity, Java 
 - 📧 Contact:
 - [![Instagram]()](https://www.instagram.com/mmokzlrsn/)
+- [![Linkedin]()](https://www.linkedin.com/in/mehmetalikizilarslan/)
 - mehmetalikizilarslan@gmail.com
